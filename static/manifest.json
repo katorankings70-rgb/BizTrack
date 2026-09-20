@@ -1,0 +1,9 @@
+{
+  "name": "BizTrack Africa",
+  "short_name": "BizTrack",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#ffcc00",
+  "icons": []
+}
